@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Learn without limits",
+    "description": "Learn languages with ZABU."
+  },
+  "navigation": {
+    "languages": "Languages",
+    "about": "About",
+    "login": "Log in",
+    "signup": "Sign up"
+  },
+  "home": {
+    "title": "Discover",
+    "highlight": "new languages",
+    "subtitle": "Learn languages, connect with the world and discover new opportunities with ZABU.",
+    "start": "Start learning",
+    "learnMore": "Learn more",
+    "tagline": "Learn beyond borders"
+  }
+}

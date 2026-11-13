@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Chegarasiz o‘rgan",
+    "description": "ZABU bilan tillarni o‘rganing."
+  },
+  "navigation": {
+    "languages": "Tillar",
+    "about": "Biz haqimizda",
+    "login": "Kirish",
+    "signup": "Ro‘yxatdan o‘tish"
+  },
+  "home": {
+    "title": "Yangi",
+    "highlight": "tillarni kashf eting",
+    "subtitle": "Tillarni o‘rganing, dunyo bilan muloqot qiling va ZABU bilan yangi imkoniyatlarni kashf eting.",
+    "start": "O‘rganishni boshlash",
+    "learnMore": "Batafsil",
+    "tagline": "Chegarasiz o‘rgan"
+  }
+}

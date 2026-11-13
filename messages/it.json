@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Impara senza confini",
+    "description": "Impara le lingue con ZABU."
+  },
+  "navigation": {
+    "languages": "Lingue",
+    "about": "Chi siamo",
+    "login": "Accedi",
+    "signup": "Registrati"
+  },
+  "home": {
+    "title": "Scopri",
+    "highlight": "nuove lingue",
+    "subtitle": "Impara le lingue, comunica con il mondo e scopri nuove opportunità con ZABU.",
+    "start": "Inizia a imparare",
+    "learnMore": "Scopri di più",
+    "tagline": "Impara senza confini"
+  }
+}
